@@ -1,3 +1,5 @@
+package revolutionnarybot;
+
 import java.awt.AWTException;
 import java.awt.Dimension;
 import java.awt.MouseInfo;

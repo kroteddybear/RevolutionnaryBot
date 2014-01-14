@@ -17,8 +17,8 @@ public class RevolutionnaryBot {
      */
     public static void main(String[] args) throws AWTException {
         // TODO code application logic here
-       MaliciousRobot bot = new MaliciousRobot(100,10);
-       
-        
+        MaliciousRobot bot = new MaliciousRobot(100, 10);
+        LaunchWindow w = new LaunchWindow();
+        w.setBot(bot);
     }
 }
