@@ -12,6 +12,7 @@ import java.awt.AWTException;
  */
 public class RevolutionnaryBot {
 
+
     /**
      * @param args the command line arguments
      */
@@ -21,4 +22,5 @@ public class RevolutionnaryBot {
         LaunchWindow w = new LaunchWindow();
         w.setBot(bot);
     }
+
 }
